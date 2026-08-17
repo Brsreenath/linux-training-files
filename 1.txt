@@ -6,6 +6,6 @@ Distributions (Distros): Complete operating systems built using the Linux kernel
 Multi-user: Many people can use the same system at the same time with separate permissions.Key BenefitsSecurity:
 Strong user permissions and an active global community make it very safe.Stability: It runs for years without
 needing a reboot, making it ideal for servers.Flexibility: You can change every part of the system,
-from the desktop look to deep system settings.Cost: It is free to use for personal and business needs.
-If you'd like, I can:List popular beginner distros to try on a PCExplain basic terminal
+from the desktop look to deep system settings.Cost: It is free linux to use for personal and business needs.
+If you'd like, I can:List linux popular beginner distros to try on a PCExplain basic terminal
 commandsShow how Linux is used in web serversLet me know what you want to explore next.
