@@ -1,0 +1,4 @@
+In a later study, the same analysis was performed for Debian version 4.0 (etch, which was 
+released in 2007).[76] This distribution contained close to 283 million lines of source code, 
+and the study estimated that it would have required about seventy three thousand 
+man-years and cost US$10.4 billion[75] (in 2024 dollars) to develop by conventional means
